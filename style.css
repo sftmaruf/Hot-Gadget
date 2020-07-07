@@ -7,6 +7,8 @@
     border: none;
     height: 35px;
     width: 120px;
+    margin-left: 20px;
+    margin-bottom: 20px;
     border-radius: 5px;
 }
 .bg{
@@ -81,4 +83,8 @@ body{
     position: relative;
     left: 230px;
     bottom: 90px;
+}
+.price{
+    text-align: center;
+    font-size: large;
 }
